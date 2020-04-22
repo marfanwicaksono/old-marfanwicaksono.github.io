@@ -1,3 +1,3 @@
-# WELCOME, THIS IS ARFAN PAGE
+# Arfan's Site
 
-My full name is Mokhamad Arfan Wicaksono
+This repository is for Arfan personal static website
