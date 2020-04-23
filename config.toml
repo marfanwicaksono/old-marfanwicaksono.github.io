@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://marfanwicaksono.github.io"
+baseURL = ""
 relativeurls = true
 title = "Mokhamad Arfan Wicaksono"
 theme = "airspace-hugo"
