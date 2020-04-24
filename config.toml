@@ -8,7 +8,7 @@ paginate = "4"
 # post excerpt
 summaryLength = "30"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
+disqusShortname = "marfanwicaksono" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 
@@ -195,6 +195,6 @@ languageName = "Id"
 languageCode = "id-id"
 contentDir = "content/indonesia"
 weight = 2
-home = "Accueil"
+home = "Beranda"
 # copyright
 copyright = "Copyright &copy; 2019 [Arfan](https://marfanwicaksono@github.io) All Rights Reserved"
