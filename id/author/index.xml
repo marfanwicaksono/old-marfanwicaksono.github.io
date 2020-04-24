@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Mokhamad Arfan Wicaksono</title>
-    <link>https://raw.githubusercontent.com/marfanwicaksono/marfanwicaksono.github.io/master/id/author/</link>
+    <link>/id/author/</link>
     <description>Recent content in Authors on Mokhamad Arfan Wicaksono</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>Copyright &amp;copy; 2019 [Arfan](https://marfanwicaksono@github.io) All Rights Reserved</copyright>
     
-	<atom:link href="https://raw.githubusercontent.com/marfanwicaksono/marfanwicaksono.github.io/master/id/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/id/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>John Doe</title>
-      <link>https://raw.githubusercontent.com/marfanwicaksono/marfanwicaksono.github.io/master/id/author/john-doe/</link>
+      <link>/id/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://raw.githubusercontent.com/marfanwicaksono/marfanwicaksono.github.io/master/id/author/john-doe/</guid>
+      <guid>/id/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://raw.githubusercontent.com/marfanwicaksono/marfanwicaksono.github.io/master/id/author/mark-dinn/</link>
+      <link>/id/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://raw.githubusercontent.com/marfanwicaksono/marfanwicaksono.github.io/master/id/author/mark-dinn/</guid>
+      <guid>/id/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     

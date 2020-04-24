@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Our Company on Mokhamad Arfan Wicaksono</title>
-    <link>https://raw.githubusercontent.com/marfanwicaksono/marfanwicaksono.github.io/master/id/about/</link>
+    <link>/id/about/</link>
     <description>Recent content in About Our Company on Mokhamad Arfan Wicaksono</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>Copyright &amp;copy; 2019 [Arfan](https://marfanwicaksono@github.io) All Rights Reserved</copyright>
     
-	<atom:link href="https://raw.githubusercontent.com/marfanwicaksono/marfanwicaksono.github.io/master/id/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/id/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
