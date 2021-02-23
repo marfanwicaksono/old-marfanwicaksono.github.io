@@ -3,388 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/id/faq/</loc>
-    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <loc>http://marfanwicaksono.github.io/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faq/"
+                href="http://marfanwicaksono.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://marfanwicaksono.github.io/bn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://marfanwicaksono.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://marfanwicaksono.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://marfanwicaksono.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://marfanwicaksono.github.io/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://marfanwicaksono.github.io/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/faq/"
+                href="http://marfanwicaksono.github.io/id/categories/"
                 />
   </url>
   
   <url>
-    <loc>/id/</loc>
-    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <loc>http://marfanwicaksono.github.io/id/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="http://marfanwicaksono.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://marfanwicaksono.github.io/bn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://marfanwicaksono.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://marfanwicaksono.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://marfanwicaksono.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://marfanwicaksono.github.io/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://marfanwicaksono.github.io/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/"
+                href="http://marfanwicaksono.github.io/id/tags/"
                 />
   </url>
   
   <url>
-    <loc>/id/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>http://marfanwicaksono.github.io/id/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/advice/"
+                href="http://marfanwicaksono.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://marfanwicaksono.github.io/bn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://marfanwicaksono.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://marfanwicaksono.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://marfanwicaksono.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://marfanwicaksono.github.io/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://marfanwicaksono.github.io/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/id/tags/advice/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/tags/ai/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/tags/android/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/categories/artificial-intelligence/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/categories/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/tags/company/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/categories/company-news/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/blog/blog-post-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/categories/legacy-support/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/tags/mechine/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/tags/news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/tags/retro/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/id/tags/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/tags/technology/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/author/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/author/john-doe/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/author/mark-dinn/</loc>
-  </url>
-  
-  <url>
-    <loc>/id/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/pricing/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/project/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/project/rio-furniture-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/project/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/project/rio-furniture-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/project/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/project/rio-furniture-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/project/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/project/rio-furniture-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/project/rio-furniture-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/project/rio-furniture-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/project/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/project/rio-furniture-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>/id/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/id/service/"
+                href="http://marfanwicaksono.github.io/id/"
                 />
   </url>
   
