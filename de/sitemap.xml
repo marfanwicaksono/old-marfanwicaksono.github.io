@@ -3,6 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://marfanwicaksono.github.io/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://marfanwicaksono.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://marfanwicaksono.github.io/bn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://marfanwicaksono.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://marfanwicaksono.github.io/id/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://marfanwicaksono.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://marfanwicaksono.github.io/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://marfanwicaksono.github.io/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://marfanwicaksono.github.io/de/"
+                />
+  </url>
+  
+  <url>
     <loc>http://marfanwicaksono.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -87,50 +131,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://marfanwicaksono.github.io/de/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://marfanwicaksono.github.io/de/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://marfanwicaksono.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="http://marfanwicaksono.github.io/bn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://marfanwicaksono.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="http://marfanwicaksono.github.io/id/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://marfanwicaksono.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="http://marfanwicaksono.github.io/it/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="http://marfanwicaksono.github.io/cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://marfanwicaksono.github.io/de/"
                 />
   </url>
   
